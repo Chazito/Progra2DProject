@@ -973,6 +973,7 @@ GameObject:
   - component: {fileID: 1356744379}
   - component: {fileID: 1356744378}
   - component: {fileID: 1356744377}
+  - component: {fileID: 1356744380}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -1073,6 +1074,23 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1356744375}
+--- !u!114 &1356744380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1356744375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b771a9c55baa365468e706091fc0db19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: "Jos\xE9"
+    sentences:
+    - 
+    - 
+    - 
 --- !u!1 &1433499055
 GameObject:
   m_ObjectHideFlags: 0
